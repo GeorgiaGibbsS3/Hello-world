@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <Title> My Coding practice </title>
+</head>
+<body>
+  <h1> My Coding practice  </h1>
+  <P> I am teaching myself how to code <br  /> I am really enjoying it so far!</P>
+  <br  />
+  <p> So far I have learned how to:</P>
+  <ul>
+  <li> write basic code</Li>
+  <li> add items</li>
+  
+  <p>This includes:</p>
+  <ol> 
+  <li>writing lists</li>
+  <li>adding pictures</li> 
+  <li>adding a hyperlink</li>
+  <li>adding a hyperlink to a picture</li>
+  <br  />
+<a href="https://www.codecademy.com/">Using this site</a>
+
+</body>
+</html> 
